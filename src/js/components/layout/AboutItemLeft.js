@@ -6,7 +6,7 @@ export default class AboutItemLeft extends React.Component {
     return (
         <li>
             <div class="timeline-image">
-                <img class="img-circle img-responsive" src="img/about/1.jpg" alt="" />
+                <img class="img-circle img-responsive" src={this.props.image} alt="" />
             </div>
             <div class="timeline-panel">
                 <div class="timeline-heading">

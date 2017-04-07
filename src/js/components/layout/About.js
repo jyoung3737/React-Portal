@@ -15,7 +15,7 @@ export default class About extends React.Component {
             </div>
             <div class="row">
                 <ul class="timeline">
-                    <AboutItemLeft date={"2017 - 2015"} title={"Schneider Electric - Scrum Master & Web Developer"} summary={"In Janurary of 2015, I received my Scrum Master Certification from Scrum, Inc. I then accpeted a position on Schneider Electric's SDL Tridion Web Development Team. In this role, I was responsible for a high performing team of eight developers and QA engineers."} />
+                    <AboutItemLeft image={"img/about/1.jpg"} date={"2017 - 2015"} title={"Schneider Electric - Scrum Master & Web Developer"} summary={"In Janurary of 2015, I received my Scrum Master Certification from Scrum, Inc. I then accpeted a position on Schneider Electric's SDL Tridion Web Development Team. In this role, I was responsible for a high performing team of eight developers and QA engineers."} />
                     <AboutImageRight />
                     <li class="timeline-inverted">
                         <div class="timeline-image">
