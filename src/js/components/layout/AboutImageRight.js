@@ -6,15 +6,15 @@ export default class AboutImageRight extends React.Component {
     return (
         <li class="timeline-inverted">
             <div class="timeline-image">
-                <img class="img-circle img-responsive" src="img/about/2.jpg" alt="" />
+                <img class="img-circle img-responsive" src={this.props.image} alt="" />
             </div>
             <div class="timeline-panel">
                 <div class="timeline-heading">
-                    <h4>March 2011</h4>
-                    <h4 class="subheading">An Agency is Born</h4>
+                    <h4>{this.props.date}</h4>
+                    <h4 class="subheading">{this.props.title}</h4>
                 </div>
                 <div class="timeline-body">
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                    <p class="text-muted">{this.props.summary}</p>
                 </div>
             </div>
         </li>
