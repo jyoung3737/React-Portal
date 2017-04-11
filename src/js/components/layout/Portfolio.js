@@ -17,9 +17,6 @@ export default class Portfolio extends React.Component {
                 <PortfolioItem />
                 <PortfolioItem />
                 <PortfolioItem />
-                <PortfolioItem />
-                <PortfolioItem />
-                <PortfolioItem />
             </div>
         </div>
     </section>

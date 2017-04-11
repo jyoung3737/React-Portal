@@ -9,7 +9,7 @@ export default class About extends React.Component {
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">About</h2>
+                    <h2 class="section-heading">What have I done?</h2>
                     <h3 class="section-subheading text-muted">Enthusiastic and resourceful technical professional with over 12 years of experience in Web Development and Digital Marketing. Accomplished software engineer with team leadership and project management skills.</h3>
                 </div>
             </div>
