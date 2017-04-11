@@ -9,8 +9,8 @@ export default class Services extends React.Component {
                 <i class="fa fa-circle fa-stack-2x text-primary"></i>
                 <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">E-Commerce</h4>
-            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <h4 class="service-heading">{this.props.title}</h4>
+            <p class="text-muted">{this.props.summary}</p>
         </div>
     );
   }
