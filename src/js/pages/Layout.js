@@ -26,7 +26,6 @@ export default class Layout extends React.Component {
         <Portfolio />
         <About />
         <OurTeam />
-        <Clients />
         <ContactForm />
         <Footer />
         
