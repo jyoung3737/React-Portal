@@ -1,14 +1,14 @@
 import React from "react";
 
-import About from "../components/layout/About";
-import Clients from "../components/layout/Clients";
-import ContactForm from "../components/layout/ContactForm";
-import Footer from "../components/layout/Footer";
-import Header from "../components/layout/Header";
-import Nav from "../components/layout/Nav";
-import Portfolio from "../components/layout/Portfolio";
-import Services from "../components/layout/Services";
-import OurTeam from "../components/layout/OurTeam";
+import About from "../components/About";
+import Clients from "../components/Clients";
+import ContactForm from "../components/ContactForm";
+import Footer from "../components/Footer";
+import Header from "../components/Header";
+import Nav from "../components/Nav";
+import Portfolio from "../components/Portfolio";
+import Services from "../components/Services";
+import OurTeam from "../components/OurTeam";
 
 export default class Layout extends React.Component {
   render() {

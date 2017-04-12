@@ -1,12 +1,14 @@
-{
-    "title": "Schneider Electric - Scrum Master & Web Developer",
-    "date-range": "2017 - 2015",
-    "summary": "In Janurary of 2015, I received my Scrum Master Certification from Scrum, Inc. I then accpeted a position on Schneider Electric's SDL Tridion Web Development Team. In this role, I was responsible for a high performing team of eight developers and QA engineers.",
-    "image": "img/about/1.jpg"
-},
-{
-    "title": "Schneider Electric - User Experience / User Interface Designer",
-    "date-range": "2015 - 2013",
-    "summary": "In Janurary of 2013, I accepted a position as User Experience / UI Designer. I was responsible for creating highly effective and creatively engaging web user interfaces. This is icluded speaking with customer and gathering feedback (usability testing), creating photoshop mockups and HTML/CSS interfaces. Continuously refining and iterating designs based on user feedback and analytics.",
-    "image": "img/about/2.jpg"
-}
+[
+    {
+        "title": "Schneider Electric - Scrum Master & Web Developer",
+        "date-range": "2017 - 2015",
+        "summary": "In Janurary of 2015, I received my Scrum Master Certification from Scrum, Inc. I then accpeted a position on Schneider Electric's SDL Tridion Web Development Team. In this role, I was responsible for a high performing team of eight developers and QA engineers.",
+        "image": "img/about/1.jpg"
+    },
+    {
+        "title": "Schneider Electric - User Experience / User Interface Designer",
+        "date-range": "2015 - 2013",
+        "summary": "In Janurary of 2013, I accepted a position as User Experience / UI Designer. I was responsible for creating highly effective and creatively engaging web user interfaces. This is icluded speaking with customer and gathering feedback (usability testing), creating photoshop mockups and HTML/CSS interfaces. Continuously refining and iterating designs based on user feedback and analytics.",
+        "image": "img/about/2.jpg"
+    }
+]
