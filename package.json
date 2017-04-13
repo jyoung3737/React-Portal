@@ -23,7 +23,7 @@
   "devDependencies": {},
   "scripts": {
     "dev": "webpack-dev-server --content-base src --inline --hot",
-    "start": "node /js/client.js"
+    "start": "node webpack.config.js"
   },
   "author": "",
   "license": "ISC"
